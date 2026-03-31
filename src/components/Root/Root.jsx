@@ -5,6 +5,7 @@ import Main from "./Main";
 import PremiumCart from "./PremiumCart/PremiumCart";
 import PriceCart from "./PriceCart/PriceCart";
 import WorkFlowBanner from "./WorkFlowBanner/WorkFlowBanner";
+import Footer from "./Footer/Footer";
 
 const Root = () => {
   const [count, setCount] = useState(0);
@@ -25,6 +26,7 @@ const Root = () => {
       <PremiumCart></PremiumCart>
       <PriceCart></PriceCart>
       <WorkFlowBanner></WorkFlowBanner>
+      <Footer></Footer>
     </div>
   );
 };

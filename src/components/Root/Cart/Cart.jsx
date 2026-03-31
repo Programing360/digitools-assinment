@@ -15,7 +15,7 @@ const Cart = ({ cartItems, setCartItems,setCount }) => {
   }
   return (
     <div className="">
-      <h1 className="text-3xl font-bold mb-5">Your Cart</h1>
+      <h1 className="text-3xl font-bold mb-5 text-center md:text-start">Your Cart</h1>
       {cartItems.length === 0 ? (
         <p className="text-gray-500 text-center">Your cart is empty.</p>
       ) : (
@@ -40,7 +40,7 @@ const Cart = ({ cartItems, setCartItems,setCount }) => {
               </div>
             </div>
           ))}
-          <div className="flex justify-between items-center">
+          <div className="flex justify-between items-center mx-4">
             <h2 className="text-xl font-bold">Total:</h2>
             <p>
               $
