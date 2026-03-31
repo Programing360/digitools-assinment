@@ -14,7 +14,7 @@ const Cart = ({ cartItems, setCartItems,setCount }) => {
     setCount(0);
   }
   return (
-    <div className="min-h-screen">
+    <div className="">
       <h1 className="text-3xl font-bold mb-5">Your Cart</h1>
       {cartItems.length === 0 ? (
         <p className="text-gray-500 text-center">Your cart is empty.</p>
@@ -23,9 +23,9 @@ const Cart = ({ cartItems, setCartItems,setCount }) => {
           {cartItems.map((cart) => (
             <div
               key={cart.id}
-              className="border border-gray-400 p-4 rounded-lg mb-4 flex justify-between items-center"
+              className="border border-gray-400 p-4 rounded-lg mb-4 flex justify-between items-center mx-4"
             >
-              <div>
+              <div className="w-60 md:w-full">
                 <h2 className="text-[20px] font-bold">{cart.name}</h2>
                 <p>{cart.description}</p>
                 <p>${cart.price.toFixed(2)}</p>

@@ -3,7 +3,8 @@ import cartIcon from "../../assets/shopping-cart.png";
 
 const Nav = ({ count }) => {
   return (
-    <div className="navbar bg-base-100 shadow container mx-auto">
+   <div className="fixed top-0 z-10 w-full">
+     <div className="navbar bg-base-100 shadow container mx-auto ">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -75,6 +76,7 @@ const Nav = ({ count }) => {
         </a>
       </div>
     </div>
+   </div>
   );
 };
 

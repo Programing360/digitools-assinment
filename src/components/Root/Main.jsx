@@ -3,7 +3,7 @@ import CartItem from "./CartItem";
 import Cart from "./Cart/Cart";
 
 const Main = ({ allData,setCount,count }) => {
-    const data = use(allData);
+    const data = allData
     const [openCart, setOpenCart] = useState(false);
     const [cartItems, setCartItems] = useState([]);
 
