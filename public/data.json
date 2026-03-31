@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Pack",
+    "description": "Perfect for beginners who want a simple and professional resume builder.",
+    "price": 9.99,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "20+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "FileText"
+  },
+  {
+    "id": 2,
+    "name": "Professional CV Builder",
+    "description": "Advanced CV builder with premium templates and cover letter support.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "Cover letter builder",
+      "Download in PDF and DOCX"
+    ],
+    "icon": "Briefcase"
+  },
+  {
+    "id": 3,
+    "name": "Career Boost Pro",
+    "description": "Ideal for job seekers who want advanced optimization and analytics.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "ATS optimization",
+      "Resume score checker",
+      "Unlimited downloads"
+    ],
+    "icon": "TrendingUp"
+  },
+  {
+    "id": 4,
+    "name": "Freelancer Portfolio Kit",
+    "description": "Create a portfolio and resume package for freelance professionals.",
+    "price": 14.99,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Portfolio templates",
+      "Resume builder",
+      "Custom branding"
+    ],
+    "icon": "FolderOpen"
+  },
+  {
+    "id": 5,
+    "name": "Executive Resume Suite",
+    "description": "Premium resume package for executives and senior professionals.",
+    "price": 79.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Executive templates",
+      "LinkedIn profile optimization",
+      "Priority support"
+    ],
+    "icon": "Crown"
+  },
+  {
+    "id": 6,
+    "name": "Student Career Starter",
+    "description": "Designed for students and fresh graduates entering the job market.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Internship resume templates",
+      "Easy editing",
+      "Export to PDF"
+    ],
+    "icon": "GraduationCap"
+  },
+  {
+    "id": 7,
+    "name": "Agency Hiring Toolkit",
+    "description": "A complete toolkit for recruitment agencies and HR teams.",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Team collaboration",
+      "Candidate database",
+      "Bulk resume export"
+    ],
+    "icon": "Users"
+  },
+  {
+    "id": 8,
+    "name": "Creative Designer Bundle",
+    "description": "Stylish resume templates for graphic designers and creative professionals.",
+    "price": 24.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Creative templates",
+      "Portfolio integration",
+      "Color customization"
+    ],
+    "icon": "Palette"
+  },
+  {
+    "id": 9,
+    "name": "Remote Job Hunter Plan",
+    "description": "Special package for remote job seekers with international resume formats.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Remote job templates",
+      "International CV formats",
+      "LinkedIn export"
+    ],
+    "icon": "Globe"
+  },
+  {
+    "id": 10,
+    "name": "Ultimate Career Bundle",
+    "description": "All-in-one solution with premium templates, analytics, and support.",
+    "price": 149.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "500+ templates",
+      "Career analytics dashboard",
+      "24/7 support"
+    ],
+    "icon": "Rocket"
+  }
+]
