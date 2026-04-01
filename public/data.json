@@ -12,7 +12,7 @@
       "ATS optimization",
       "Export to PDF"
     ],
-    "icon": "FileText"
+    "icon": "https://i.ibb.co.com/v41tJ254/download-3.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "Cover letter builder",
       "Download in PDF and DOCX"
     ],
-    "icon": "Briefcase"
+    "icon": "https://i.ibb.co.com/M5JnMpWB/writing-2327400-1.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "Resume score checker",
       "Unlimited downloads"
     ],
-    "icon": "TrendingUp"
+    "icon": "https://i.ibb.co.com/h1481tBp/10009579.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "Resume builder",
       "Custom branding"
     ],
-    "icon": "FolderOpen"
+    "icon": "https://i.ibb.co.com/V0m36bpc/portfolio.png"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "LinkedIn profile optimization",
       "Priority support"
     ],
-    "icon": "Crown"
+    "icon": "https://i.ibb.co.com/JjT3m5rs/download-2.png"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "Easy editing",
       "Export to PDF"
     ],
-    "icon": "GraduationCap"
+    "icon": "https://i.ibb.co.com/5WDrYPxW/download-1.png"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "Candidate database",
       "Bulk resume export"
     ],
-    "icon": "Users"
+    "icon": "https://i.ibb.co.com/nqzgvmv9/download.png"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "Portfolio integration",
       "Color customization"
     ],
-    "icon": "Palette"
+    "icon": "https://i.ibb.co.com/dJsdgvKH/design-tool.png"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
       "International CV formats",
       "LinkedIn export"
     ],
-    "icon": "Globe"
+    "icon": "https://i.ibb.co.com/Y7C6MHS9/2108154.png"
   },
   {
     "id": 10,
@@ -147,6 +147,6 @@
       "Career analytics dashboard",
       "24/7 support"
     ],
-    "icon": "Rocket"
+    "icon": "https://i.ibb.co.com/VWc3XFXt/operation.png"
   }
 ]

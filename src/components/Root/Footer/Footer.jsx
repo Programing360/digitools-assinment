@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="container mx-auto mb-40">
       <footer className=" bg-[#101727] text-white p-10 rounded-t-2xl">
-        <div className="footer place-items-center px-22 sm:footer-horizontal">
+        <div className="footer md:place-items-center md:px-22 sm:footer-horizontal">
           <nav>
             <h6 className="footer-title text-3xl text-white">DigiTools</h6>
             <p className="leading-6">
@@ -73,10 +73,10 @@ const Footer = () => {
             </div>
           </nav>
         </div>
-        <hr className="my-8 mx-38" />
-        <div className="flex justify-between mx-38">
+        <hr className="my-8 md:mx-38" />
+        <div className="flex justify-between md:mx-38">
             <p className="text-[#fafafaa2]">© 2026 Digitools. All rights reserved.</p>
-            <ul className="flex items-center text-[#fafafa8e] gap-6">
+            <ul className="flex items-center text-[#fafafa8e] md:gap-6">
                 <li>Privacy Policy </li>
                 <li>Terms of Service </li>
                 <li>Cookies </li>

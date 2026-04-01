@@ -20,7 +20,7 @@ const Banner = () => {
           <h1 className="text-4xl md:text-6xl font-extrabold mb-6 text-center md:text-start">
             Supercharge Your
             <br />
-            Digital Workflow
+            <span className="bg-linear-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text">Digital Workflow</span>
           </h1>
           <p className="mb-8 text-center md:text-start ">
             Access premium AI tools, design assets, templates, and productivity <br />
